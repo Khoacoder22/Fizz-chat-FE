@@ -20,3 +20,7 @@ To run the FizzApp frontend, you'll need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Khoacoder22/Fizz-chat-FE.git
+
+### RUN 
+```bash
+npm run dev
